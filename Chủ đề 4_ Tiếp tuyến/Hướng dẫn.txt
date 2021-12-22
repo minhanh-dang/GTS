@@ -1,0 +1,9 @@
+- Khoi dong Matlab
+- Bat file Pp_Tieptuyen.m len
+Nhap ma tran cot cac he so cua ham
+Vi du x^3 +x -5 thi nhap [1; 0; 1; -5]
+	 Nhap can trai
+	 Nhap can phai
+	 Nhap sai so
+- An F5
+- Khi do, may se hien ra so lan lap va ket qua moi lan lap se hien ra. Cong voi ket qua cua bai toan
