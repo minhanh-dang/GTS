@@ -1,0 +1,77 @@
+C:\Users\TuanAnh\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7628.27\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\TuanAnh\OneDrive - Hanoi University of Science and Technology\Documents\GTS-NumericalAnalysis\Giải tích số - Phương pháp số-20210716T020234Z-001\Giải tích số - Phương pháp số\5. Phương pháp lặp đơn giải phương trình f(x)=0"
+CMake Error in cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake:
+  cmListFileCache: error can not open file.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- The C compiler identification is unknown
+CMake Error in cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake:
+  cmListFileCache: error can not open file.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Error: Could not find cmake module file: C:/Users/TuanAnh/OneDrive - Hanoi University of Science and Technology/Documents/GTS-NumericalAnalysis/Giáº£i tÃ­ch sá»‘ - PhÆ°Æ¡ng phÃ¡p sá»‘-20210716T020234Z-001/Giáº£i tÃ­ch sá»‘ - PhÆ°Æ¡ng phÃ¡p sá»‘/5. PhÆ°Æ¡ng phÃ¡p láº·p Ä‘Æ¡n giáº£i phÆ°Æ¡ng trÃ¬nh f(x)=0/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake
+-- The CXX compiler identification is unknown
+CMake Error in cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake:
+  cmListFileCache: error can not open file.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Error: Could not find cmake module file: C:/Users/TuanAnh/OneDrive - Hanoi University of Science and Technology/Documents/GTS-NumericalAnalysis/Giáº£i tÃ­ch sá»‘ - PhÆ°Æ¡ng phÃ¡p sá»‘-20210716T020234Z-001/Giáº£i tÃ­ch sá»‘ - PhÆ°Æ¡ng phÃ¡p sá»‘/5. PhÆ°Æ¡ng phÃ¡p láº·p Ä‘Æ¡n giáº£i phÆ°Æ¡ng trÃ¬nh f(x)=0/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake
+-- Detecting C compiler ABI info
+CMake Error at C:/Users/TuanAnh/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/bin/cmake/win/share/cmake-3.19/Modules/CMakeDetermineCompilerABI.cmake:48 (try_compile):
+  Unknown extension ".c" for file
+
+    C:/Users/TuanAnh/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/bin/cmake/win/share/cmake-3.19/Modules/CMakeCCompilerABI.c
+
+  try_compile() works only for enabled languages.  Currently these are:
+
+    C CXX
+
+  See project() command to enable other languages.
+Call Stack (most recent call first):
+  C:/Users/TuanAnh/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/bin/cmake/win/share/cmake-3.19/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)
+  CMakeLists.txt:2 (project)
+
+
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe
+CMake Error at C:/Users/TuanAnh/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/bin/cmake/win/share/cmake-3.19/Modules/CMakeTestCCompiler.cmake:53 (try_compile):
+  Unknown extension ".c" for file
+
+    C:/Users/TuanAnh/OneDrive - Hanoi University of Science and Technology/Documents/GTS-NumericalAnalysis/Giáº£i tÃ­ch sá»‘ - PhÆ°Æ¡ng phÃ¡p sá»‘-20210716T020234Z-001/Giáº£i tÃ­ch sá»‘ - PhÆ°Æ¡ng phÃ¡p sá»‘/5. PhÆ°Æ¡ng phÃ¡p láº·p Ä‘Æ¡n giáº£i phÆ°Æ¡ng trÃ¬nh f(x)=0/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+
+  try_compile() works only for enabled languages.  Currently these are:
+
+    C CXX
+
+  See project() command to enable other languages.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe - broken
+CMake Error at C:/Users/TuanAnh/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/211.7628.27/bin/cmake/win/share/cmake-3.19/Modules/CMakeTestCCompiler.cmake:66 (message):
+  The C compiler
+
+    "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/TuanAnh/OneDrive - Hanoi University of Science and Technology/Documents/GTS-NumericalAnalysis/Giáº£i tÃ­ch sá»‘ - PhÆ°Æ¡ng phÃ¡p sá»‘-20210716T020234Z-001/Giáº£i tÃ­ch sá»‘ - PhÆ°Æ¡ng phÃ¡p sá»‘/5. PhÆ°Æ¡ng phÃ¡p láº·p Ä‘Æ¡n giáº£i phÆ°Æ¡ng trÃ¬nh f(x)=0/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/TuanAnh/OneDrive - Hanoi University of Science and Technology/Documents/GTS-NumericalAnalysis/Giáº£i tÃ­ch sá»‘ - PhÆ°Æ¡ng phÃ¡p sá»‘-20210716T020234Z-001/Giáº£i tÃ­ch sá»‘ - PhÆ°Æ¡ng phÃ¡p sá»‘/5. PhÆ°Æ¡ng phÃ¡p láº·p Ä‘Æ¡n giáº£i phÆ°Æ¡ng trÃ¬nh f(x)=0/cmake-build-debug/CMakeFiles/CMakeError.log".
