@@ -1,0 +1,9 @@
+Huong dan su dung code:
+1. Tai phan mem jupyter.
+2. Tao file input.txt de luu cac ma trna input va luu vao muc Files cua jupyter
+3. Click vao Upload o goc phai tren cung cua giao dien jupyter va tai len file code, sau do an vao file va run. 
+   Hoac click vao new -> python 3 -> copy code vao va chay.
+VD: File input.txt ( co the thay ten file trong code neu muon )
+1 2 3
+3 4 6
+0 0 1
